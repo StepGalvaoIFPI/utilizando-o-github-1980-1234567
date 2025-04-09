@@ -1,1 +1,4 @@
-#Crie um programa que exiba as seguintes informações, cada uma em uma linha:
+print(" maria Aparecida Vieira Rosa")
+print(" 45 anos")
+print("Osanco")
+print("São Paulo")
